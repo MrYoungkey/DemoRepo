@@ -1,0 +1,9 @@
+body{text-align: center;
+font-size: 75px;}
+input{width: 700px;
+height: 20px;
+border-radius: 20px;}
+.G{color: blue;}
+.O{color: red;}
+.P{color: yellow;}
+.E{color: green;}
